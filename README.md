@@ -1,6 +1,6 @@
 # Easy-Symmetric-Crypter
 
-How to use : Install realese and start .exe 
+How to use : Install releases and start .exe 
 u can use 2 way 
 1) crypt
 2) decrypt
